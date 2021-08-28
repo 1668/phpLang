@@ -6,9 +6,9 @@
 }
 
 
-body, .navbar{
-    margin:auto;
-    padding: auto;
+body, main, .navbar{
+    margin: 0em;
+    padding: 0em;
     background-color: rgb(255, 251, 241);
     overflow-x: hidden;
 }
@@ -99,7 +99,7 @@ body, .navbar{
 h1, .titre{
     font-family: "saonara";
 }
-h2, h3, h4, h5, .sous-titre, p, .textForm, .footer{
+h2, h3, h4, h5, .sous-titre, p, .textForm, .lien{
     font-family: "mirage";
 }
 
@@ -112,7 +112,7 @@ p{
     letter-spacing: 4px;
 
 }
-.footer{
+.lien{
     font-size: small;
 
 

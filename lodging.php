@@ -499,17 +499,17 @@
             </div>
         </div>
     </main>
-    <footer>
+    <!-- <footer>
         <div class="container">
             <div class="row d-flex justify-content-center">
                 <div class="col-10">
                     <p class="footer text-center"><?php echo $lang['footerMessage']?></p>
-                    <a href="contact.php" class="footer text-center"><p><?php echo $lang['contact']?></p>
+                    <a href="contact.php" class="lien text-center"><p><?php echo $lang['contact']?></p>
                 </a>
                 </div>
             </div>
         </div>
-    </footer>
+    </footer> -->
     
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
