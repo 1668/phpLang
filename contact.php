@@ -29,13 +29,13 @@
                 <div class="collapse navbar-collapse callapsed" id="navbarNav">
                     <ul class="navbar-nav ">
                         <li class="nav-item  d-flex justify-content-end">
-                            <a class="nav-link text-dark" aria-current="page" href="index.php"><?php echo $lang['Home']?></a>
+                            <a class="nav-link text-black-50" aria-current="page" href="index.php"><?php echo $lang['Home']?></a>
                         </li>
                         <li class="nav-item  d-flex justify-content-end">
                             <a class="nav-link active text-black-50" href="lodging.php"><?php echo $lang['Lodging']?></a>
                         </li>
                         <li class="nav-item  d-flex justify-content-end">
-                            <a class="nav-link text-black-50" href="contact.php">Contact</a>
+                            <a class="nav-link text-dark" href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -111,7 +111,6 @@
             </div>
         </div>
     </main>
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"

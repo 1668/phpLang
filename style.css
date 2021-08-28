@@ -6,9 +6,9 @@
 }
 
 
-body, main, footer, .navbar{
-    margin: 0em;
-    padding: 0em;
+body, .navbar{
+    margin:auto;
+    padding: auto;
     background-color: rgb(255, 251, 241);
     overflow-x: hidden;
 }
@@ -139,4 +139,3 @@ p{
 .carouselExampleCaptions2{
     width: 40hw;
 }
-
